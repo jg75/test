@@ -19,6 +19,7 @@ int main()
 }
 
 int GCD(int a, int b)
+// Does really cool stuff that ancient dudes thought up
 {
     if (b < a)
     {
